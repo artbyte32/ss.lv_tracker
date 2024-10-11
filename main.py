@@ -4,8 +4,9 @@ import os
 import json
 import time
 
-CONFIG_FILE = "config.json"
-DATA_FILE = "ads_seen.json"
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+CONFIG_FILE = os.path.join(SCRIPT_DIR, "config.json")
+DATA_FILE = os.path.join(SCRIPT_DIR, "ads_seen.json")
 
 
 def load_config():
