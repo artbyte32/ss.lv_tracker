@@ -16,8 +16,7 @@ Tālāk vajadzēs uzstādīt jaunu Discord serveri, kurā saņemsi ziņas.
 - Spiežam uz teksta kanāla, "Edit Channel".
 - "Integrations" -> "Webhooks" -> "New Webhook" -> "Copy Webhook URL"
 
-<img src="assets/server1.png" width="25%" alt="server1">
-<img src="assets/server2.png" width="25%" alt="server1">
+<img src="assets/server1.png" width="25%" alt="server1"><img src="assets/server2.png" width="25%" alt="server1">
 <img src="assets/server3.png" width="16.85%" alt="server1">
 <img src="assets/server4.png" width="30%" alt="server1">
 
