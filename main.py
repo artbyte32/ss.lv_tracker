@@ -63,7 +63,7 @@ def send_discord_notification(webhook_url, new_ads, url):
     if not new_ads:
         return
 
-    content = f"Found {len(new_ads)} new advertisement(s) for URL: {url}\n"
+    content = f"Atradu {len(new_ads)} jaunu(s) sludinajumus URL: {url}\n"
 
     embeds = []
     for ad in new_ads:
